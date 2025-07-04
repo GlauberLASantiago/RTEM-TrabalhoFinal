@@ -1,4 +1,5 @@
 Sinfonia Educacional Tecnológica
+
 Proposta de Produto educacional digital para uma oficina de música e tecnologia, desenvolvido na disciplina de Recursos Tecnológicos para o Ensino de Música da UFSCar, sob orientação do Prof. Glauber Santiago.
 
 🎵 Sobre o Projeto
