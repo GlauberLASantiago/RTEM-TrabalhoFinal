@@ -34,11 +34,5 @@ O Plano de aula da oficina: Uma proposta pedagógica detalhada, estruturada em e
 
 O Site de Apresentação: Um portfólio digital que hospeda o plano de aula, os materiais didáticos produzidos e um formulário para feedback do público.
 
-🌐 Como Visualizar o Projeto
 
-O site completo com o produto educacional pode ser acessado através do nosso GitHub Pages:
-
-https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
-
-(Instrução: Substitua SEU-USUARIO e NOME-DO-REPOSITORIO pelos valores corretos do seu repositório).
 
